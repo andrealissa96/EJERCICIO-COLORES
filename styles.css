@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light+Two&display=swap');
+
+
+section{ 
+height:100vh; 
+width: 100%; 
+background-position:center; 
+background-repeat: no-repeat; 
+background-size: cover; 
+
+} 
+.image-1 { 
+background-image: url("../img/img1.jpeg") 
+} 
+.image-2 { 
+background-image: url("../img/img2.jpeg"); 
+} 
+.image-3 { 
+background-image: url("../img/img3.webp"); 
+} 
+.image-4 { 
+background-image: url("../img/img4.webp"); 
+}
+
+h1{
+font-family: Shadows Into Light Two;
+font-size: 70px;
+}
+
+.imagenes{
+font-family: Shadows Into Light Two;  
+font-size: 45px;
+background-image: url(/img/img1.jpeg);
+width: 700px;
+height: 70px;
+border-radius: 10px;
+text-align: center;
+margin-bottom: 50px;
+}
+
+.verde-amarillo{
+font-family: Shadows Into Light Two;  
+font-size: 45px;
+background: linear-gradient(90deg,rgba(120, 159, 12, 1) 0%, rgba(255, 225, 0, 1) 100%);
+width: 700px;
+height: 70px;
+border-radius: 10px;
+text-align: center;
+margin-bottom: 50px;
+}
+
+.rosa-azul{
+font-family: Shadows Into Light Two;  
+font-size: 45px;
+ background: linear-gradient(90deg,rgba(234, 82, 248, 1) 0%, rgba(0, 102, 255, 1) 100%);
+width: 700px;
+height: 70px;
+border-radius: 10px;
+text-align: center;
+margin-bottom: 50px;
+}
+.azul-turquesa{
+font-family: Shadows Into Light Two;  
+font-size: 45px;
+background: linear-gradient(90deg,rgba(25, 22, 84, 1) 0%, rgba(67, 198, 172, 1) 100%);
+width: 700px;
+height: 70px;
+border-radius: 10px;
+text-align: center;
+margin-bottom: 50px;
+}
+.azul-amarillo{
+font-family: Shadows Into Light Two;  
+font-size: 45px;
+background: linear-gradient(90deg,rgba(43, 191, 228, 1) 0%, rgba(234, 236, 198, 1) 100%);
+width: 700px;
+height: 70px;
+border-radius: 10px;
+text-align: center;
+margin-bottom: 50px;
+}
+.violeta-azul{
+font-family: Shadows Into Light Two;  
+font-size: 45px;
+background: linear-gradient(90deg,rgba(140, 54, 108, 1) 0%, rgba(111, 100, 231, 1) 100%);
+width: 700px;
+height: 70px;
+border-radius: 10px;
+text-align: center;
+margin-bottom: 50px;
+}
+
+.tonalidades-verdes{
+font-family: Shadows Into Light Two;  
+font-size: 45px;
+background: linear-gradient(90deg,rgba(15, 52, 67, 1) 0%, rgba(52, 230, 159, 1) 100%);
+width: 700px;
+height: 70px;
+border-radius: 10px;
+text-align: center;
+margin-bottom: 50px;
+}
+
+a{
+    color: white;
+}
+
