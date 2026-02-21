@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&family=Diplomata&family=Kablammo&family=Mouse+Memoirs&family=Mystery+Quest&family=Rubik+Wet+Paint&family=Sigmar+One&display=swap');
+body{
+    background: linear-gradient(90deg,rgba(43, 191, 228, 1) 0%, rgba(234, 236, 198, 1) 100%);
+}
+
+h1{
+    font-family: Audiowide;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 100px;
+}

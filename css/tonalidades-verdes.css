@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Tilt+Prism&display=swap');
+
+body{
+    background: linear-gradient(90deg,rgba(15, 52, 67, 1) 0%, rgba(52, 230, 159, 1) 100%);
+}
+
+h1{
+    font-family: Tilt Prism;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 100px;
+}

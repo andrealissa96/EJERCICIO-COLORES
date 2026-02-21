@@ -1,0 +1,16 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Shade&display=swap');
+
+body{
+    background: linear-gradient(90deg,rgba(140, 54, 108, 1) 0%, rgba(111, 100, 231, 1) 100%);
+
+}
+
+h1{
+    font-family: Bungee Shade;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 100px;
+}
